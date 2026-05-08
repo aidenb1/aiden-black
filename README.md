@@ -1,4 +1,4 @@
-# Hi, I'm Aiden | GIS Developer & Analyst 🌍
+# Hi, I'm Aiden | Intermediate GIS Developer & Analyst 🌍
 
 I build **production-quality ArcPy pipelines** and automated geospatial tools to solve complex spatial puzzles. My background is in **Physical Geography** (UBCO) and **GIS Automation** (BCIT).
 
